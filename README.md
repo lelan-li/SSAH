@@ -7,6 +7,7 @@
 <img src="fig/map_.png" width="600"/>
 
 ## Citing SSAH
+If you find DSEH useful in your research, please consider citing:
 ```
 @inproceedings{li2018self,
   title={Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval},
