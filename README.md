@@ -4,4 +4,4 @@
 ![SSAH](SSAH.png)
 
 ## Result
-<img src="fig/map_.png" width="1000"/>
+<img src="fig/map_.png" width="600"/>
